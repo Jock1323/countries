@@ -46,6 +46,7 @@ p{
 @media only screen and (max-width:991px){
     .page__body{
         flex-direction: column;
+        justify-content: flex-start;
     }
     .page__right{
         margin-top: 20px;
